@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "hw7q4",
+        "repositoryURL": "/Users/alyssacox/Documents/Computer/swift/final_project/linked_list",
+        "state": {
+          "branch": null,
+          "revision": "ac1cba83b57a376c97fdd38b66bdd32ec910ada4",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
